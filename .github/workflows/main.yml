@@ -15,5 +15,6 @@ jobs:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
           scope: 'learning'
-          massage: <h1>hello world</h1>
+          
+          html_file: 'demo.html'
       - run: npm install
