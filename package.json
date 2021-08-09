@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "registry": " https://npm.pkg.github.com/@learing"
+    "registry": " https://npm.pkg.github.com/learing"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/prasantkumar4826/learning.git"
+    "url": "git+https://github.com/prasantkumar4826/learning.git"
   },
   "keywords": [],
   "author": "",
