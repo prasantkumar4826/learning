@@ -16,5 +16,5 @@ jobs:
           registry-url: https://npm.pkg.github.com/
           scope: 'learning'
           
-          html_file: 'demo.html'
+      - run: 'demo.html'
       - run: npm install
